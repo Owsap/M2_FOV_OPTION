@@ -2,10 +2,11 @@
 
 ![SystemOptionDialog](https://i.imgur.com/Z8v7hif.png)
 
-## Contributers ##
-Owsap, TokiSan, Distraught, Tatsumaru.
+## Contributers[^1][^note] ##
 
-- First public release of FoV System and implementation tutorial. - [Owsap]
-- MiniMap idea with FoV, providing first un-generic version. - [Toki.San]
-- Generic MiniMap camera texture rendering block with FoV. - [Distraught]
-- Controller images (Slider & Reset Button) - [Tatsumaru]
+[^1]: Owsap, TokiSan, Distraught, Tatsumaru.
+[^note]:
+    - First public release of FoV System and implementation tutorial. - [Owsap]  
+    - MiniMap idea with FoV, providing first un-generic version. - [Toki.San](https://github.com/TokianoSannito/MiniMap_Fov)  
+    - Generic MiniMap camera texture rendering block with FoV. - [Distraught]  
+    - Controller images (Slider & Reset Button) - [Tatsumaru]
