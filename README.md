@@ -7,6 +7,6 @@
 [^1]: Owsap, TokiSan, Distraught, Tatsumaru.
 [^note]:
     - First public release of FoV System and implementation tutorial. - [Owsap]  
-    - MiniMap idea with FoV, providing first un-generic version. - [Toki.San](https://github.com/TokianoSannito/MiniMap_Fov)  
+    - MiniMap idea with FoV, providing [first un-generic version](https://github.com/TokianoSannito/MiniMap_Fov). - [Toki.San]  
     - Generic MiniMap camera texture rendering block with FoV. - [Distraught]  
     - Controller images (Slider & Reset Button) - [Tatsumaru]
